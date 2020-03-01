@@ -1,5 +1,5 @@
 {
-  "name": "furqansiddiqui/ethereum-rpc",
+  "name": "mosqueiro/ethereum-rpc",
   "type": "library",
   "description": "Ethereum (geth) RPC client",
   "keywords": [
